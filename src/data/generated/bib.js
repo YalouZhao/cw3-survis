@@ -18,11 +18,12 @@ const generatedBibEntries = {
         "year": "2024"
     },
     "Bistarelli2025": {
-        "author": "Bistarelli, Stefano and Mercanti, Ivan and Mezzanotte, Marco and Santini, Francesco and Tesei, Luca",
+        "author": "Bistarelli, Stefano and Fiore, Giovanni and Mercanti, Ivan and Mongiello, Marina",
         "doi": "10.1007/s42979-025-04241-5",
         "journal": "SN Computer Science",
         "keywords": "survey seed, code generation, literature review",
-        "pages": "811",
+        "number": "6",
+        "pages": "673",
         "title": "Usage of Large Language Model for Code Generation Tasks: A Review",
         "type": "article",
         "volume": "6",
