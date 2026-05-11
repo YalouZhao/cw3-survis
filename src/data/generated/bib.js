@@ -1,4 +1,4 @@
-﻿const generatedBibEntries = {
+const generatedBibEntries = {
     "Austin2021": {
         "author": "Austin, Jacob and Odena, Augustus and Nye, Maxwell and Bosma, Maarten and Michalewski, Henryk and Dohan, David and Jiang, Ellen and Cai, Carrie and Terry, Michael and Le, Quoc and Sutton, Charles",
         "doi": "10.48550/arXiv.2108.07732",
@@ -16,6 +16,17 @@
         "title": "Are Large Language Models a Threat to Programming Platforms? An Exploratory Study",
         "type": "inproceedings",
         "year": "2024"
+    },
+    "Bistarelli2025": {
+        "author": "Bistarelli, Stefano and Mercanti, Ivan and Mezzanotte, Marco and Santini, Francesco and Tesei, Luca",
+        "doi": "10.1007/s42979-025-04241-5",
+        "journal": "SN Computer Science",
+        "keywords": "survey seed, code generation, literature review",
+        "pages": "811",
+        "title": "Usage of Large Language Model for Code Generation Tasks: A Review",
+        "type": "article",
+        "volume": "6",
+        "year": "2025"
     },
     "Chen2021": {
         "author": "Chen, Mark and Tworek, Jerry and Jun, Heewoo and Yuan, Qiming and others",
@@ -77,7 +88,7 @@
     "Pearce2022": {
         "author": "Pearce, Hammond and Ahmad, Baleegh and Tan, Benjamin and Dolan-Gavitt, Brendan and Karri, Ramesh",
         "booktitle": "IEEE Symposium on Security and Privacy",
-        "doi": "10.1109/SP46214.2022.00057",
+        "doi": "10.1109/SP46214.2022.9833571",
         "keywords": "security and robustness, copilot",
         "title": "Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions",
         "type": "inproceedings",
